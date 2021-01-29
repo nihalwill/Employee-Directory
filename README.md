@@ -1,9 +1,18 @@
+![](assets/DirectoryDefault.PNG)
+![](assets/DirectorySearch.PNG)
+
+# To Run Program
+
+Local - Download repository and run "npm i" in the terminal.  Then enter http://localhost:3000 in the browser
+
+Github Pages - https://nihalwill.github.io/Employee-Directory/
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![](assets/DirectoryDefault.PNG)
-![](assets/DirectorySearch.PNG)
 
 ## Available Scripts
 
